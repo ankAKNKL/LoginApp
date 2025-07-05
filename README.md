@@ -1,4 +1,4 @@
-#  Login & Registration App (Node.js + MongoDB)
+Simple Login & Registration App (Node.js + MongoDB)
 
 This is a simple full-stack login & registration web application built using:
 
